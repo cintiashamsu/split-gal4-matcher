@@ -174,7 +174,7 @@ def analyze_match_image(match_img_path, output_dir):
     }
 
 # Streamlit UI
-st.title("Split-GAL4 Matcher")
+st.title("🪰 Split-GAL4 Matcher")
 
 ad = st.text_input("Enter AD Line")
 dbd = st.text_input("Enter DBD Line")
